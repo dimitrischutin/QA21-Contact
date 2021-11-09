@@ -1,10 +1,14 @@
 package com.telran.contact.fw;
 
+import com.google.common.io.Files;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import javax.imageio.IIOException;
+import java.io.File;
+import java.io.IOException;
 import java.time.Duration;
 
 public class HelperBase {
@@ -68,7 +72,17 @@ public class HelperBase {
 
 //    public void jump() {
 //        driver.findElement(By.cssSelector(".add_form__2rsm2 button")).sendKeys(Keys.CONTROL,Keys.END);
-//    }
 
+    public String takeScreenshot() {
+        File tmp = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+        File screenshot = new File("screenshot/screen-" + System.currentTimeMillis() + ".png");
+        try {
+            Files.copy(tmp, screenshot);
 
-}
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return screenshot.getAbsolutePath();
+
+    }
+    }
