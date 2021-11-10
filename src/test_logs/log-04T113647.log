@@ -1,0 +1,12 @@
+11:36:54.526 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveCSVTestwith data: [Contact{phone='8999554411', email='neuer@gmail.com'}]
+11:37:06.451 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveCSVTest
+11:37:06.451 [main] INFO  com.telran.contact.tests.TestBase - ===================================================================
+11:37:06.453 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveCSVTestwith data: [Contact{phone='8999554422', email='neuer12@gmail.com'}]
+11:37:06.583 [main] ERROR com.telran.contact.tests.TestBase - FAILED: test method addContactPositiveCSVTest
+11:37:06.583 [main] INFO  com.telran.contact.tests.TestBase - ===================================================================
+11:37:06.585 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveCSVTestwith data: [Contact{phone='8999554433', email='neuer13@gmail.com'}]
+11:37:07.687 [main] INFO  com.telran.contact.tests.TestBase - PASSED: test method addContactPositiveCSVTest
+11:37:07.687 [main] INFO  com.telran.contact.tests.TestBase - ===================================================================
+11:37:07.688 [main] INFO  com.telran.contact.tests.TestBase - Start test addContactPositiveCSVTestwith data: [Contact{phone='8999554499', email='neuer14@gmail.com'}]
+11:37:07.798 [main] ERROR com.telran.contact.tests.TestBase - FAILED: test method addContactPositiveCSVTest
+11:37:07.799 [main] INFO  com.telran.contact.tests.TestBase - ===================================================================
