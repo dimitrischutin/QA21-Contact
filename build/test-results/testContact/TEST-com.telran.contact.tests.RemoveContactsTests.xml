@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.contact.tests.RemoveContactsTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-12T18:46:24" hostname="Dimitris-MacBook-Pro.fritz.box" time="2.224">
+  <properties/>
+  <testcase name="removeOneContactTest" classname="com.telran.contact.tests.RemoveContactsTests" time="2.224"/>
+  <system-out><![CDATA[19:46:23.718 [Test worker] INFO  com.telran.contact.tests.TestBase - Start test removeOneContactTestwith data: []
+5
+4
+19:46:26.813 [Test worker] INFO  com.telran.contact.tests.TestBase - PASSED: test method removeOneContactTest
+19:46:26.814 [Test worker] INFO  com.telran.contact.tests.TestBase - ===================================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

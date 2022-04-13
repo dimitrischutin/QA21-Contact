@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.contact.tests.CreateAccountTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-12T18:45:26" hostname="Dimitris-MacBook-Pro.fritz.box" time="0.758">
+  <properties/>
+  <testcase name="registrationNegativeWithoutPasswordTest" classname="com.telran.contact.tests.CreateAccountTest" time="0.758"/>
+  <system-out><![CDATA[19:45:16.320 [Test worker] INFO  com.telran.contact.tests.TestBase - Start test registrationNegativeWithoutPasswordTestwith data: []
+19:45:27.239 [Test worker] INFO  com.telran.contact.tests.TestBase - PASSED: test method registrationNegativeWithoutPasswordTest
+19:45:27.239 [Test worker] INFO  com.telran.contact.tests.TestBase - ===================================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

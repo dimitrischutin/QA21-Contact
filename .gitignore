@@ -1,6 +1,6 @@
 .gradle
 /build/
-
+src/test_logs/
 # Ignore Gradle GUI config
 gradle-app.setting
 

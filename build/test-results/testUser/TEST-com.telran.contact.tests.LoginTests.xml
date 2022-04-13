@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.contact.tests.LoginTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-12T18:45:14" hostname="Dimitris-MacBook-Pro.fritz.box" time="1.82">
+  <properties/>
+  <testcase name="loginRegisteredUserNegativeWithWrongPasswordTest" classname="com.telran.contact.tests.LoginTests" time="1.233"/>
+  <testcase name="loginRegisteredUserPositiveTest" classname="com.telran.contact.tests.LoginTests" time="0.507"/>
+  <system-out><![CDATA[19:45:14.427 [Test worker] INFO  com.telran.contact.tests.TestBase - Start test loginRegisteredUserNegativeWithWrongPasswordTestwith data: []
+19:45:15.732 [Test worker] INFO  com.telran.contact.tests.TestBase - PASSED: test method loginRegisteredUserNegativeWithWrongPasswordTest
+19:45:15.732 [Test worker] INFO  com.telran.contact.tests.TestBase - ===================================================================
+19:45:15.737 [Test worker] INFO  com.telran.contact.tests.TestBase - Start test loginRegisteredUserPositiveTestwith data: []
+19:45:16.315 [Test worker] INFO  com.telran.contact.tests.TestBase - PASSED: test method loginRegisteredUserPositiveTest
+19:45:16.315 [Test worker] INFO  com.telran.contact.tests.TestBase - ===================================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

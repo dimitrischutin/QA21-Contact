@@ -1,3 +1,0 @@
-09:28:49.545 [main] INFO  com.telran.contact.tests.TestBase - Start test registrationPositiveTestwith data: []
-09:28:53.995 [main] ERROR com.telran.contact.tests.TestBase - FAILED: test method registrationPositiveTestScreenshot: /Users/dimitrischutin/Desktop/Tel-Ran/QA21-Contact/screenshot/screen-1636360133975.png
-09:28:53.995 [main] INFO  com.telran.contact.tests.TestBase - ===================================================================
